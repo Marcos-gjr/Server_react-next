@@ -1,5 +1,5 @@
 {
-  "name": "Server_react-next",
+  "name": "server_react-next",
   "version": "1.0.0",
   "description": "Aplicação, para aprendizado, utilizando as tecnologias React e Next com servidor web.",
   "main": "index.js",
