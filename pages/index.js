@@ -4,6 +4,7 @@ import { useState } from 'react'
 function home(){
     return (<div> 
         <div><h1>Home</h1></div>
+        <div>Bom dia Rodrigo</div>
         <Contador />
         <Link href="/tempo">
             <a>Acessar página tempo</a>
